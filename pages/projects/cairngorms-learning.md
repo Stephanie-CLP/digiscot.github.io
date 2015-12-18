@@ -44,6 +44,14 @@ The devices used will be laptops in Strathspey and either laptops or PCs in Bade
 * Combating loneliness and depression by holding fun, relaxed sessions in a safe environment where people can meet new people and strengthen their social network.
 * Building skills for empowerment of individuals and communities
 
+### Project Updates
+December 2015 
+* Working together with tutors we have created a range of class topics covering anti-virus software, back-ups, shopping safely online and using social media safely. 
+* Our plan for the course is to allow students to choose from the topics so that we can best help them learn how to do the things they want to do, both safely and through fun enjoyable sessions.
+* With the help from one of our volunteers we have purchased two laptops which will be used for the courses. 
+* We have now found venue for courses in Kingussie and Grantown and are prepping to promote them. We have been very lucky to recieve great promotion including an article featured in the local paper
+
+
 
 ### Evaluation
 
