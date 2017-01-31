@@ -33,6 +33,7 @@ The devices used will be laptops in Strathspey and either laptops or PCs in Bade
 
 * Purchase 2 laptops for students who do not have their own to borrow during the sessions. Development of course descriptors, session plans and course materials between tutor and Co-ordinator which forms the content of the courses and foundations for quality assurance and monitoring. 10 hours of work for 2 people plus administrative support and report to SCVO submitted: December 2015
 * First round of courses marketed, learners signed up, 5 weeks of 2 hour tutor lead sessions completed, feedback and quality monitoring paperwork completed and report to SCVO submitted: February 2016
+
 * Second round of courses marketed, learners signed up, 5 weeks of 2 hour tutor lead sessions completed, feedback and quality monitoring paperwork completed and report to SCVO submitted: April 2016
 * Third round of courses marketed, learners signed up, 5 weeks of 2 hour tutor lead sessions completed, feedback and quality monitoring paperwork completed and report to SCVO submitted: October 2016
 
@@ -89,8 +90,20 @@ Our class in Grantown will continue - we are hoping to reach more learners by by
 
 ### Evaluation
 
+Living in a rural community is making digital skills and getting online more and more important, yet the stories of hacking and cyber-crime put many people off.  We therefore designed our sessions to start with setting strong passwords and giving participants the confidence to go online safely and then gave them a menu option to select the topics they wanted to learn most.
+
+We helped 39 people across both communities over 20 weeks.  All 39 participants covered the 3 main topics of problem solving (a mixture of solving an actual problem and internet safety / security), managing information and communicating.  Only two participants wanted to know about creating content online (through social media) and only one participant wanted to know more about transacting online (buying travel tickets).
+
+All participants said they had improved their digital skills and most said they had gained confidence, both in their skills and in using the internet safely.
 
 ### Lessons learned
 
+All the participants who completed a feedback form benefited from more knowledge round security and setting strong passwords.  The menu of topics for the rest of the sessions was generally well received, giving participants an opportunity to co-design their learning based on what they wanted to do with their increased digital skills.
+
+Participants enjoyed getting handouts to take home with them and watching a demo followed by time to try for themselves and to practice.  This gave them a step-by-step approach to follow and the time and space to try things out.  The biggest challenge that participants seem to face is lack of confidence and concerns over ‘breaking’ a programme or a laptop.
+
+We found that different communities liked different styles of delivery, with one preferring a more drop-in style session while another liked a formal and structured class environment.
+
+The large range of abilities was sometimes a challenge for the tutors when trying to spend the right amount of time with each participants so asking participants to fill in a short questionnaire before attending would help us plan the sessions and activities to help with this challenge. 
 
 
